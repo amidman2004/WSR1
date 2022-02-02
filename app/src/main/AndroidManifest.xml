@@ -20,7 +20,7 @@
             android:name ="com.google.android.gms.ads.APPLICATION_ID"
             android:value="ca-app-pub-3940256099942544~6300978111"
             />
-        
+
         <provider
             android:name="androidx.core.content.FileProvider"
             android:authorities="com.example.a31012022.fileprovider"
